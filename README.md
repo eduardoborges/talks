@@ -1,10 +1,10 @@
-# 📰 talks
+# 📊 Talks
 
-Aqui eu deixo os arquivos dos slides de talks que eu faço e etc
+Aqui eu deixo os arquivos dos slides de talks que eu faço e etc.
 
 
 
-### Carreira de FrontEnd
+## Carreira de FrontEnd
 
 [Link para o Slide](...)
 
